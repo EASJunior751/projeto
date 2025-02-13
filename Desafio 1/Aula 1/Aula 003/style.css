@@ -1,0 +1,15 @@
+body{
+    background-color: green;
+    font-family: Arial;
+    height: 100vh;
+    box-sizing: border-box;
+}
+main{
+    height: 100%;
+}
+
+.responsivo-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
